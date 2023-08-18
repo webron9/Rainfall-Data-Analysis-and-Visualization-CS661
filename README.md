@@ -1,4 +1,4 @@
-# Rainfall-Data-Analysis-and-Visualization-CS661
+# Rainfall-Data-Analysis-and-Visualization[CS661-Course_Project]
 
 ### Project Description
 - Utilized Python and Plotly Dash to visually represent historical rainfall and temperature data for India spanning 1901-2002.
